@@ -1,7 +1,9 @@
-package com.jokerchen.mmimage;
+package com.jokerchen.mmimage.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.jokerchen.mmimage.R;
 
 public class MainActivity extends AppCompatActivity {
 
